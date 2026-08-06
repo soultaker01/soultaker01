@@ -19,8 +19,9 @@ I'll try my best to build something that will be useful for everyone🙂. <br>
 ## 💭 Quote
 
 > [!TIP]
-> **"The world has changed and none of us can go back. All we can do is our best, and sometimes the best that we can do is to start over."**
+> **"Mirror mirror on the wall, I'll always get up after I fall
+> Whether I run, walk, or crawl, I'll set my goals and achieve them all."**
 >
-><p align="center"><b>-Peggy Carter, Captain America  ^_^ </b></p>
+><p align="center"><b>- ^_^ </b></p>
 
-![snake gif](https://github.com/sujal1-dot/sujal1-dot/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/soultaker01/soultaker01/blob/output/github-snake-dark.svg)
