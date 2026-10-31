@@ -1,64 +1,27 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=soultaker01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F305390631%3Fu%3D9e0f0ecd46228ab61254356522b60994abb53b1e%26v%3D4" alt="soultaker01 hero visual" />
-</p>
+# 💫 About Me:
+<b> Heyy👋🏻 I'm Sujal, a 20-year-old Student  from kolhapur, India. I'm not so expert in building projects. But im still gonna start to build  projects that are useful for me as well as other also. <br>
+</b>
 
-<p align="center"><b>Deep</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
+<b>
+I'll try my best to build something that will be useful for everyone🙂. <br>
+</b>
 
-<p align="center"><a href="https://github.com/soultaker01">GitHub</a></p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thee_soultaker) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sujal.sutar_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujalsutar08@gmail.com) 
 
-<details open>
-<summary><b>📌 Top projects</b></summary>
-<br/>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=soultaker01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=soultaker01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=soultaker01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=soultaker01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F305390631%3Fu%3D9e0f0ecd46228ab61254356522b60994abb53b1e%26v%3D4" alt="soultaker01 projects visual" />
-</p>
+## 💭 Quote
 
-- [soultaker01.github.io](https://github.com/soultaker01/soultaker01.github.io) · ★ 0
-- [soultaker01](https://github.com/soultaker01/soultaker01) · ★ 0
+> [!TIP]
+> **"Mirror mirror on the wall, I'll always get up after I fall
+> Whether I run, walk, or crawl, I'll set my goals and achieve them all."**
+>
+><p align="center"><b>- ^_^ </b></p>
 
-</details>
-
-<details>
-<summary><b>🧰 Stack</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=soultaker01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F305390631%3Fu%3D9e0f0ecd46228ab61254356522b60994abb53b1e%26v%3D4" alt="soultaker01 stack visual" />
-</p>
-
-</details>
-
-<details>
-<summary><b>📊 By the numbers</b></summary>
-<br/>
-
-<b>2</b> public repositories, <b>0</b> stars, <b>38</b> contributions in the last year, a longest streak of <b>2</b> days and <b>1</b> followers.
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=soultaker01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F305390631%3Fu%3D9e0f0ecd46228ab61254356522b60994abb53b1e%26v%3D4" alt="soultaker01 stats visual" />
-</p>
-
-</details>
-
-<details>
-<summary><b>🟩 Activity</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=soultaker01&theme=neon" alt="soultaker01 contribution activity" />
-</p>
-
-</details>
-
-<details>
-<summary><b>👋 Say hello</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=soultaker01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F305390631%3Fu%3D9e0f0ecd46228ab61254356522b60994abb53b1e%26v%3D4" alt="soultaker01 social visual" />
-</p>
-
-</details>
-
-<p align="center"><sub>Deep · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+![snake gif](https://github.com/soultaker01/soultaker01/blob/output/github-snake-dark.svg)
