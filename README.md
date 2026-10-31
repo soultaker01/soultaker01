@@ -1,156 +1,64 @@
-
-<h3 align="center">BUILDER'S WORKBENCH / CITY EDITION</h3>
-
-<h1 align="center">A small city of things I build.</h1>
-
-<h2 align="center">
-  <a href="https://github.com/soultaker01">@SOULTAKER01</a>
-</h2>
-
 <p align="center">
-  <b>Sujal · Student · Aspiring Developer</b><br>
-  Game Development • Cybersecurity • Software Development
+  <img src="https://www.gitskins.com/api/section/hero?username=soultaker01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F305390631%3Fu%3D9e0f0ecd46228ab61254356522b60994abb53b1e%26v%3D4" alt="soultaker01 hero visual" />
 </p>
 
+<p align="center"><b>Deep</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
+
+<p align="center"><a href="https://github.com/soultaker01">GitHub</a></p>
+
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
+
 <p align="center">
-  <a href="https://github.com/soultaker01">
-    <img src="https://img.shields.io/badge/GITHUB-@SOULTAKER01-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://www.gitskins.com/api/section/projects?username=soultaker01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F305390631%3Fu%3D9e0f0ecd46228ab61254356522b60994abb53b1e%26v%3D4" alt="soultaker01 projects visual" />
 </p>
 
-![Developer Profile](https://www.gitskins.com/api/section/hero?username=soultaker01&theme=retro)
-
----
-
-## 01 / The skyline — @SOULTAKER01
-
-![Contribution City](https://www.gitskins.com/api/section/city?username=soultaker01&theme=retro)
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<h3>🏙 Build a skyline</h3>
-<sub>Learning something new every day.</sub>
-
-</td>
-<td align="center" width="33%">
-
-<h3>🧰 Open the workshop</h3>
-<sub>Exploring my developer journey.</sub>
-
-</td>
-<td align="center" width="33%">
-
-<h3>🚀 Leave a launchpad</h3>
-<sub>Turning ideas into projects.</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-## 02 / Project district — SOULTAKER01
-
-![Public Projects](https://www.gitskins.com/api/section/projects?username=soultaker01&theme=retro)
-
-<h3 align="center">
-  <a href="https://github.com/soultaker01?tab=repositories">
-    EXPLORE @SOULTAKER01 REPOSITORIES ↗
-  </a>
-</h3>
-
----
-
-## 03 / Control room
-
-<table>
-<tr>
-<th width="50%"><h3>PUBLIC SIGNALS</h3></th>
-<th width="50%"><h3>TOOLS OF THE TRADE</h3></th>
-</tr>
-<tr>
-<td align="center">
-
-<img src="https://www.gitskins.com/api/section/stats?username=soultaker01&theme=retro" alt="Soultaker01 GitHub statistics" width="410"/>
-
-</td>
-<td align="center">
-
-<img src="https://www.gitskins.com/api/section/stack?username=soultaker01&theme=retro" alt="Soultaker01 programming languages" width="410"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<details>
-<summary><h3>04 / Open the activity archive — @SOULTAKER01</h3></summary>
-
-### The daily building blocks
-
-![Soultaker01 Contribution Calendar](https://www.gitskins.com/api/section/heatmap?username=soultaker01&theme=retro)
-
-<table>
-<tr>
-<th><h3>EXPLORE</h3></th>
-<th><h3>BUILD</h3></th>
-<th><h3>SHARE</h3></th>
-</tr>
-<tr>
-<td align="center">💡 Learn</td>
-<td align="center">⚙️ Create</td>
-<td align="center">🌍 Connect</td>
-</tr>
-</table>
+- [soultaker01.github.io](https://github.com/soultaker01/soultaker01.github.io) · ★ 0
+- [soultaker01](https://github.com/soultaker01/soultaker01) · ★ 0
 
 </details>
 
----
-
-## 05 / Developer information
-
-<table>
-<tr>
-<td><b>GitHub Username</b></td>
-<td><a href="https://github.com/soultaker01">@SOULTAKER01</a></td>
-</tr>
-<tr>
-<td><b>Name</b></td>
-<td>Sujal</td>
-</tr>
-<tr>
-<td><b>Interests</b></td>
-<td>Game Development, Cybersecurity, Software Development</td>
-</tr>
-<tr>
-<td><b>Current Focus</b></td>
-<td>Learning, Building and Improving</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">The next block starts with a conversation.</h2>
-
-<h3 align="center">
-  <a href="https://github.com/soultaker01">
-    SAY HELLO TO @SOULTAKER01 ↗
-  </a>
-</h3>
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
 <p align="center">
-  <a href="https://github.com/soultaker01">
-    <img src="https://img.shields.io/badge/Follow-@SOULTAKER01-181717?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://www.gitskins.com/api/section/stack?username=soultaker01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F305390631%3Fu%3D9e0f0ecd46228ab61254356522b60994abb53b1e%26v%3D4" alt="soultaker01 stack visual" />
 </p>
 
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>2</b> public repositories, <b>0</b> stars, <b>38</b> contributions in the last year, a longest streak of <b>2</b> days and <b>1</b> followers.
+
 <p align="center">
-  <sub>
-    Sujal · Builder's Workbench — City Edition
-    template by <a href="https://www.gitskins.com/creators/pengusto">@pengusto</a>
-    · Generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a>
-  </sub>
+  <img src="https://www.gitskins.com/api/section/stats?username=soultaker01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F305390631%3Fu%3D9e0f0ecd46228ab61254356522b60994abb53b1e%26v%3D4" alt="soultaker01 stats visual" />
 </p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=soultaker01&theme=neon" alt="soultaker01 contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=soultaker01&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F305390631%3Fu%3D9e0f0ecd46228ab61254356522b60994abb53b1e%26v%3D4" alt="soultaker01 social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Deep · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
