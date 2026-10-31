@@ -1,4 +1,4 @@
-# 💫 About Me:
+**`# 💫 About Me:
 <b> Heyy👋🏻 I'm Sujal, a 20-year-old Student  from kolhapur, India. I'm not so expert in building projects. But im still gonna start to build  projects that are useful for me as well as other also. <br>
 </b>
 
@@ -25,3 +25,4 @@ I'll try my best to build something that will be useful for everyone🙂. <br>
 ><p align="center"><b>- ^_^ </b></p>
 
 ![snake gif](https://github.com/soultaker01/soultaker01/blob/output/github-snake-dark.svg)
+`**
