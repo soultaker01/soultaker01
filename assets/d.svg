@@ -1,0 +1,49 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="46" viewBox="0 0 860 46">
+
+<style>
+@keyframes draw {
+  from { stroke-dashoffset: 100; }
+  to { stroke-dashoffset: 0; }
+}
+.web {
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100;
+  animation: draw 1.5s ease forwards;
+}
+</style>
+
+<!-- Grey upper curve -->
+<path class="web" d="M0 21 Q430 43 860 29" fill="none" stroke="#454A50" stroke-width="0.8" pathLength="100"></path>
+
+<!-- Red curved web -->
+<path class="web" d="M0 23 Q430 63 860 23" fill="none" stroke="#E62429" stroke-width="1" pathLength="100" style="animation-delay:.2s"></path>
+
+<!-- Tiny hanging web strands -->
+<g stroke="#454A50" stroke-width=".7" opacity=".65">
+ <path d="M22 25 L22 27"></path>
+ <path d="M52 27 L52 31"></path>
+ <path d="M97 31 L97 37"></path>
+ <path d="M129 33 L129 40"></path>
+ <path d="M174 36 L174 43"></path>
+ <path d="M201 38 L201 44"></path>
+ <path d="M239 40 L239 45"></path>
+ <path d="M276 41 L276 45"></path>
+ <path d="M316 42 L316 45"></path>
+ <path d="M354 43 L354 45"></path>
+ <path d="M391 43 L391 45"></path>
+ <path d="M431 43 L431 45"></path>
+ <path d="M468 43 L468 45"></path>
+ <path d="M509 42 L509 45"></path>
+ <path d="M543 41 L543 45"></path>
+ <path d="M574 40 L574 45"></path>
+ <path d="M618 38 L618 44"></path>
+ <path d="M655 36 L655 43"></path>
+ <path d="M698 33 L698 40"></path>
+ <path d="M733 31 L733 37"></path>
+ <path d="M764 28 L764 34"></path>
+ <path d="M805 25 L805 29"></path>
+ <path d="M845 23 L845 25"></path>
+</g>
+
+</svg>
