@@ -1,0 +1,257 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="262" viewBox="0 0 1000 262" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+
+<style>
+
+@keyframes weave {
+  from { stroke-dashoffset: 100 }
+  to { stroke-dashoffset: 0 }
+}
+
+@keyframes fade {
+  from { opacity: 0 }
+  to { opacity: 1 }
+}
+
+@keyframes glow {
+  0%,100% { opacity:.25 }
+  50% { opacity:.7 }
+}
+
+@keyframes bleed {
+  from { opacity:0; transform:translateY(-14px) }
+  to { opacity:1; transform:none }
+}
+
+@keyframes pulse {
+  0%,100% { opacity:1 }
+  50% { opacity:.25 }
+}
+
+@keyframes ooze {
+  0%,100% { transform:translateY(0) }
+  50% { transform:translateY(3px) }
+}
+
+.s {
+  animation:weave 2s ease-out both;
+  stroke-dasharray:100;
+}
+
+.name {
+  animation:fade 1s ease-out 1s both;
+}
+
+.halo {
+  animation:glow 4s ease-in-out infinite;
+}
+
+.rule {
+  animation:weave .8s ease-out 1.5s both;
+}
+
+.tag {
+  animation:fade .8s ease-out 1.8s both;
+}
+
+.goo {
+  animation:bleed 1s ease-out 2s both, ooze 6s ease-in-out 3s infinite;
+}
+
+.dot {
+  animation:pulse 1.8s ease-in-out infinite;
+}
+
+@media(prefers-reduced-motion:reduce) {
+  * { animation:none!important }
+}
+
+</style>
+
+<defs>
+
+  <radialGradient id="bgGlow">
+    <stop offset="0" stop-color="#102b55" stop-opacity=".45"></stop>
+    <stop offset=".55" stop-color="#8e101c" stop-opacity=".17"></stop>
+    <stop offset="1" stop-color="#050505" stop-opacity="0"></stop>
+  </radialGradient>
+
+  <linearGradient id="titleGradient" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#e62429"></stop>
+    <stop offset=".48" stop-color="#f0f0f0"></stop>
+    <stop offset="1" stop-color="#4388d8"></stop>
+  </linearGradient>
+
+  <linearGradient id="drip" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#101b31"></stop>
+    <stop offset=".5" stop-color="#080b12"></stop>
+    <stop offset="1" stop-color="#020304"></stop>
+  </linearGradient>
+
+  <linearGradient id="batGlow">
+    <stop offset="0" stop-color="#e62429"></stop>
+    <stop offset="1" stop-color="#4388d8"></stop>
+  </linearGradient>
+
+  <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+    <path d="M38 0H0V38" fill="none" stroke="#52647d" stroke-width=".5" opacity=".16"></path>
+  </pattern>
+
+  <filter id="shadow">
+    <feGaussianBlur stdDeviation="7"></feGaussianBlur>
+  </filter>
+
+  <!-- TYPING CLIP 1 -->
+  <clipPath id="typing1">
+    <rect x="150" y="145" width="0" height="25">
+      <animate attributeName="width" values="0;700;700;0;0" keyTimes="0;.1667;.25;.3333;1" dur="15s" begin="0s" repeatCount="indefinite"></animate>
+    </rect>
+  </clipPath>
+
+  <!-- TYPING CLIP 2 -->
+  <clipPath id="typing2">
+    <rect x="150" y="145" width="0" height="25">
+      <animate attributeName="width" values="0;700;700;0;0" keyTimes="0;.1667;.25;.3333;1" dur="15s" begin="5s" repeatCount="indefinite"></animate>
+    </rect>
+  </clipPath>
+
+  <!-- TYPING CLIP 3 -->
+  <clipPath id="typing3">
+    <rect x="150" y="145" width="0" height="25">
+      <animate attributeName="width" values="0;700;700;0;0" keyTimes="0;.1667;.25;.3333;1" dur="15s" begin="10s" repeatCount="indefinite"></animate>
+    </rect>
+  </clipPath>
+
+</defs>
+
+<!-- BACKGROUND -->
+<rect width="1000" height="262" fill="#05070b"></rect>
+<rect width="1000" height="262" fill="url(#bgGlow)"></rect>
+<rect width="1000" height="262" fill="url(#grid)"></rect>
+
+<!-- SPIDER-MAN WEB - LEFT -->
+<g fill="none" stroke="#e62429" stroke-width="1" opacity=".45">
+
+  <path class="s" d="M0 0L330 262 M0 0L260 0 M0 0L0 262 M0 0L330 130 M0 0L180 262"></path>
+
+  <path class="s" d="M55 0Q40 65 0 80 M110 0Q90 105 0 160 M165 0Q140 145 0 240"></path>
+
+  <path class="s" d="M0 55Q70 40 110 0 M0 110Q130 85 180 0 M0 165Q180 125 245 0"></path>
+
+  <path class="s" d="M0 220Q180 160 300 0"></path>
+
+</g>
+
+<!-- BATMAN DARK WEB - RIGHT -->
+<g fill="none" stroke="#4388d8" stroke-width="1" opacity=".3">
+
+  <path class="s" d="M1000 0L670 262 M1000 0L740 0 M1000 0L1000 262 M1000 0L670 130 M1000 0L820 262"></path>
+
+  <path class="s" d="M945 0Q960 65 1000 80 M890 0Q910 105 1000 160 M835 0Q860 145 1000 240"></path>
+
+  <path class="s" d="M1000 55Q930 40 890 0 M1000 110Q870 85 820 0 M1000 165Q820 125 755 0"></path>
+
+  <path class="s" d="M1000 220Q820 160 700 0"></path>
+
+</g>
+
+<!-- BAT SYMBOL -->
+<g transform="translate(500 42)" opacity=".12">
+  <path d="
+  M-75 0
+  L-95 -18 L-85 12
+  L-115 2 L-103 35
+  L-75 28 L-50 50
+  L-25 35 L0 48
+  L25 35 L50 50
+  L75 28 L103 35
+  L115 2 L85 12
+  L95 -18 L75 0
+  L55 -12 L40 12
+  L0 -5 L-40 12
+  L-55 -12Z" fill="#b5c0d0"></path>
+</g>
+
+<!-- GLOW BEHIND NAME -->
+<text class="halo" x="500" y="117" font-size="72" font-weight="900" letter-spacing="8" text-anchor="middle" fill="#e62429" filter="url(#shadow)">SUJAL S</text>
+
+<!-- MAIN NAME -->
+<text class="name" x="500" y="112" font-size="72" font-weight="900" letter-spacing="8" text-anchor="middle" fill="url(#titleGradient)">SUJAL S</text>
+
+<!-- UNDERLINE -->
+<line class="rule" x1="330" y1="137" x2="670" y2="137" stroke="url(#batGlow)" stroke-width="2" pathLength="100" stroke-dasharray="100"></line>
+
+<!-- SUBTITLE 1 -->
+<text x="500" y="165" font-size="13" letter-spacing="4" text-anchor="middle" fill="#9aa9bc" clip-path="url(#typing1)">
+ BEYOND THE SHADOWS · ABOVE THE WEB
+</text>
+
+<!-- SUBTITLE 2 -->
+<text x="500" y="165" font-size="15" letter-spacing="4" font-weight="bold" text-anchor="middle" fill="#e62429" clip-path="url(#typing2)">
+ AI &amp; ML
+</text>
+
+<!-- SUBTITLE 3 -->
+<text x="500" y="165" font-size="15" letter-spacing="3" font-weight="bold" text-anchor="middle" fill="#4388d8" clip-path="url(#typing3)">
+ CYBERSECURITY ENGINEER
+</text>
+
+<!-- LEFT LABEL -->
+<text class="tag" x="22" y="26" font-size="11" letter-spacing="2" fill="#e62429">SPIDER-SENSE :: ACTIVE</text>
+
+<!-- RIGHT LABEL -->
+<text class="tag" x="978" y="26" font-size="11" letter-spacing="2" text-anchor="end" fill="#4388d8">GOTHAM :: PROTECTED</text>
+
+<!-- BOTTOM DRIPPING SHADOW -->
+<g class="goo">
+
+  <path d="
+  M0 262
+  L0 220 L35 218 L60 224
+  L75 195 L90 187 L105 207
+  L120 220 L145 214 L160 190
+  L175 184 L190 213 L215 225
+  L250 218 L270 201 L285 197
+  L300 220 L340 216 L370 225
+  L400 213 L430 220 L460 229
+  L500 215 L530 202 L550 216
+  L580 224 L610 215 L630 190
+  L645 185 L660 210 L680 225
+  L710 218 L735 199 L750 195
+  L765 215 L800 220 L830 211
+  L850 188 L865 185 L880 210
+  L910 225 L940 214 L960 220
+  L1000 205 L1000 262Z" fill="url(#drip)"></path>
+
+  <path d="
+  M0 220 L35 218 L60 224
+  L75 195 L90 187 L105 207
+  L120 220 L145 214 L160 190
+  L175 184 L190 213 L215 225
+  L250 218 L270 201 L285 197
+  L300 220 L340 216 L370 225
+  L400 213 L430 220 L460 229
+  L500 215 L530 202 L550 216
+  L580 224 L610 215 L630 190
+  L645 185 L660 210 L680 225
+  L710 218 L735 199 L750 195
+  L765 215 L800 220 L830 211
+  L850 188 L865 185 L880 210
+  L910 225 L940 214 L960 220
+  L1000 205" fill="none" stroke="#e62429" stroke-width="1.2" opacity=".65"></path>
+
+  <path d="M0 230Q250 215 500 235T1000 225" fill="none" stroke="#4388d8" stroke-width="1.2" opacity=".65"></path>
+
+</g>
+
+<!-- CORNER LIGHTS -->
+<circle class="dot" cx="976" cy="22" r="3.5" fill="#4388d8"></circle>
+
+<circle class="dot" cx="24" cy="246" r="3" fill="#e62429"></circle>
+
+<!-- BOTTOM SIGNATURE -->
+<text x="500" y="250" font-size="9" letter-spacing="3" text-anchor="middle" fill="#64748b" opacity=".7">
+ THE DARK KNIGHT × THE FRIENDLY NEIGHBORHOOD
+</text>
+
+</svg>
